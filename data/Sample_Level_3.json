@@ -1,20 +1,18 @@
 {
     "id": 133703110,
     "name": "Angopr never clear",
-    "author": "Mr. Mobilehec",
-    "creators": ["Mr. Mobilehec"],
-    "verifier": "Mr. Mobilehec",
+    "author": "Mr.Mobilehec",
+    "creators": ["Mr.Mobilehec"],
+    "verifier": "Mr.Mobilehec",
     "verification": "https://www.youtube.com/watch?v=LgidYbH9fAs",
-    "percentToQualify": "100",
-    "password": "Mobilehec",
+    "percentToQualify": 100,
+    "password": "Flyhec",
     "records": [
-    ]
-}
+        {
             "user": "Angopr",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
-    
         }
     ]
 }
