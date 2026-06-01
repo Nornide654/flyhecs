@@ -1,15 +1,15 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 67544840,
+    "name": "SomeDudeV3",
+    "author": "SomeDudeV3",
+    "creators": ["SomeDudeV3"],
+    "verifier": "SomeDudeV3",
+    "verification": "https://www.youtube.com/watch?v=Qs4JMEDjm0U",
     "percentToQualify": 56,
-    "password": "Not Copyable",
+    "password": "FLyhec",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "Zod",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
