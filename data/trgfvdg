@@ -1,0 +1,18 @@
+{
+    "id": 67544840,
+    "name": "How (Mobilehec)",
+    "author": "SomeDudeV3",
+    "creators": ["SomeDudeV3"],
+    "verifier": "AngoPR",
+    "verification": "https://youtu.be/kRNpiFp04XI?si=Nu_IRPQ6yp73ZRol",
+    "percentToQualify": 56,
+    "Method": "Mobilehec",
+    "records": [
+        {
+            "user": "Mr. Mobilehec",
+            "link": "https://youtu.be/xVhFXkYOgn8?si=M03nf-V9Pv4JAJlb",
+            "percent": 57,
+            "hz": 60
+        }
+    ]
+}
