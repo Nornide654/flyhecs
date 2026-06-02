@@ -5,8 +5,8 @@
     "creators": ["Mr. Mobilehec, Squiggle"],
     "verifier": "Mr. Mobilehec",
     "verification": "https://youtu.be/IMMSDEbsAkA?si=6oiOSyakurBM-J9a",
-    "percentToQualify": "99.999999999999999999999",
-    "method": "Mobilehec",
+    "percentToQualify": "100",
+    "password": "Mobilehec",
     "records": [
     ]
 }
