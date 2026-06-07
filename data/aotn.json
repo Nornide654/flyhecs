@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Mobilehec",
     "records": [
+        {
+            "user": "Mr. Mobilehec",
+            "link": "https://youtu.be/xVhFXkYOgn8?si=M03nf-V9Pv4JAJlb",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
