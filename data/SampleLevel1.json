@@ -1,18 +1,13 @@
 {
-    "id": 67544840,
-    "name": "How",
+    "id": 72129456,
+    "name": "sum chal",
     "author": "SomeDudeV3",
     "creators": ["SomeDudeV3"],
     "verifier": "SomeDudeV3",
-    "verification": "https://www.youtube.com/watch?v=Qs4JMEDjm0U",
+    "verification": "https://www.youtube.com/watch?v=47N1HhguITI",
     "percentToQualify": 100,
-    "password": "Flyhec",
+    "password": "Alternating/100FPS",
     "records": [
-        {
-            "user": "Zod",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
+      
     ]
 }
